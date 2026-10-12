@@ -1,0 +1,6 @@
+com\mycompany\centralpacientes\resources\JavaEE8Resource.class
+modelo\Paciente.class
+modelo\CentralPacientes.class
+servlet\PacienteServlet.class
+persistencia\ArchivoPacientes.class
+com\mycompany\centralpacientes\JAXRSConfiguration.class
